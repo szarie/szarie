@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, I’m @szaee
+- 👀 I’m interested in ... Machine Learning, Back-end dev and data engineering
+- 🌱 I’m currently learning ...Python
+
+
 
 <!--
 **szarie/szarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
